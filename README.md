@@ -1,6 +1,9 @@
 # Cross-Platform Task Integrator using Habitica, Make and Notion
 This project shows how to automate tasks across different platforms to improve productivity and management of daily activities.
 
+![Image](https://github.com/vinifborgess/notion-make-habitica/blob/main/Cross-Platform%20Task%20Integrator%20using%20Habitica%2C%20Make%20and%20Notion%20-%20Architecture.png)
+
+
 ## Project description
 In this repository, you will learn how to use an automation tool to connect Habitica, a gamification platform that encourages the development of healthy habits, with Notion, a powerful organization and productivity solution. By integrating these tools, you will be able to automate the creation of items in a Notion database whenever a new task is added to Habitica.
 
