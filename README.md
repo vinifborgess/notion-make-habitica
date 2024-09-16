@@ -78,6 +78,9 @@ With the Notion connection established, you'll need to select which database to 
 
 ## Run and improve your productivity!
 
+![image](https://github.com/user-attachments/assets/cf886031-bedc-4416-afeb-14b5541318bf)
+
+
 Below that, you'll see the fields representing the properties of your database. Choose the appropriate type for each field and click "OK" to complete the setup. 
 
 Return to the dashboard and remember to save your changes!
