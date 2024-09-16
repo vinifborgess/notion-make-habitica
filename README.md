@@ -28,6 +28,8 @@ Demonstrate how to create automation flows that connect Habitica to Notion, maki
 ## Preparing Make environment
 Go to [Make](https://www.make.com/en). Click on the "Get started free" button, and choose an option to sign up for the platform.
 
+![image](https://github.com/user-attachments/assets/adec7851-93a2-4a49-bdb3-7d0a7657b170)
+
 After answering a few questions and completing the registration, you'll be taken to your dashboard.
 
 ## Creating the Task Integrator
@@ -35,9 +37,15 @@ After answering a few questions and completing the registration, you'll be taken
 ## Build a Scenario
 Now, let's create a "scenario," which is a predefined set of tasks and actions you can configure and reuse to automate specific processes. Instead of building a workflow from scratch, we'll select an existing scenario that fits our needs. On the left-hand menu, click "More," then select "Templates."
 
+![image](https://github.com/user-attachments/assets/7bf65594-c925-4013-9539-072ed6ae4907)
+
+
 ## Creating database in Notion using Habitica
 
 In the search bar at the top right corner, type "Habitica" and choose the option that allows you to create database items in Notion using Habitica.
+
+![image](https://github.com/user-attachments/assets/ffcc3629-7e64-4206-a4fe-2578767734bf)
+
 
 ## Setting up the Habitica configs
 
@@ -45,9 +53,15 @@ Click on "Create new scenario from template" on the left side.
 
 We'll start by setting up Habitica. Click on the Habitica icon, then select "Create a webhook." You can keep the default Webhook name or rename it as you wish. After that, click on "Create a connection."
 
+![image](https://github.com/user-attachments/assets/c8484bac-c48a-4eb2-8f2f-e737a3b92bce)
+
+
 Next, let's establish the connection between Make and Habitica. For this, you'll need your API Key and User ID from Habitica. 
 
 In Habitica, go to your account settings in Habitica and click on "Site Data" to access this information.
+
+![image](https://github.com/user-attachments/assets/766402d3-be04-4648-acc2-d7c49ffe1f18)
+
 
 Copy and paste the details into the corresponding fields in Make. 
 
@@ -56,6 +70,9 @@ Once you've filled them in, click "Save," and then click "OK" to finish. Your co
 ## Setting up the Notion configs
 
 The process for Notion is quite similar. Click on the Notion icon, select "Create a connection," choose "Notion Public," and either keep or change the name of the connection as you prefer. Then, select the Notion page that contains the database you want to link with Habitica.
+
+![image](https://github.com/user-attachments/assets/a4cd7425-85e3-44c8-b625-3bd90ee70e11)
+
 
 With the Notion connection established, you'll need to select which database to use. In the "Enter a Database ID" field, choose "Select from the list," click "Search," and after the search is complete, select the desired database.
 
